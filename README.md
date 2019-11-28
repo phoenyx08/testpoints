@@ -2,6 +2,8 @@
 
 A service application provides simple endpoints to test application working with network connections.
 
+**[ON LIVE](http://testpoints.phoenyx-studio.pp.ua)**
+
 ## List of testpoints
 
 ### Blank page
